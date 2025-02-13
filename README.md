@@ -38,8 +38,8 @@ The Conversation Optimizer helps you:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/conversation-optimizer.git
-   cd conversation-optimizer
+   git clone https://github.com/Louis2B2G/foresight.git
+   cd foresight
    ```
 
 2. Install dependencies:
@@ -86,16 +86,16 @@ The conversation history should be in JSON format:
 
 ```json
 [
-{
-"from": "User",
-"to": "Correspondent",
-"content": "Message content"
-},
-{
-"from": "Correspondent",
-"to": "User",
-"content": "Response content"
-}
+  {
+  "from": "User",
+  "to": "Correspondent",
+  "content": "Message content"
+  },
+  {
+  "from": "Correspondent",
+  "to": "User",
+  "content": "Response content"
+  }
 ]
 ```
 
