@@ -1,4 +1,4 @@
-# Conversation Optimizer using Monte Carlo Tree Search (MCTS)
+# Foresight: find the best response to a message using LLMs & MCTS
 
 Implementation of an AI-powered conversation optimizer that uses Monte Carlo Tree Search (MCTS) to help users make better conversational decisions. It analyzes past conversations and suggests optimal responses based on specified objectives.
 
